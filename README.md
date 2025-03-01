@@ -15,4 +15,8 @@ This is an auto push repository for LeetCode created with [LeetHub v2](https://g
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/choiseoyoon0330/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/choiseoyoon0330/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ This is an auto push repository for LeetCode created with [LeetHub v2](https://g
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/choiseoyoon0330/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/choiseoyoon0330/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ This is an auto push repository for LeetCode created with [LeetHub v2](https://g
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/choiseoyoon0330/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/choiseoyoon0330/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

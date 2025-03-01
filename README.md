@@ -30,4 +30,8 @@ This is an auto push repository for LeetCode created with [LeetHub v2](https://g
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/choiseoyoon0330/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/choiseoyoon0330/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

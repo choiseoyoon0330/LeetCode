@@ -12,6 +12,7 @@ This is an auto push repository for LeetCode created with [LeetHub v2](https://g
 | ------- |
 | [0001-two-sum](https://github.com/choiseoyoon0330/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/choiseoyoon0330/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/choiseoyoon0330/LeetCode/tree/master/0035-search-insert-position) |
 | [2551-apply-operations-to-an-array](https://github.com/choiseoyoon0330/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ This is an auto push repository for LeetCode created with [LeetHub v2](https://g
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/choiseoyoon0330/LeetCode/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/choiseoyoon0330/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

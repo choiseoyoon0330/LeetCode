@@ -34,4 +34,8 @@ This is an auto push repository for LeetCode created with [LeetHub v2](https://g
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/choiseoyoon0330/LeetCode/tree/master/0595-big-countries) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/choiseoyoon0330/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
